@@ -12,7 +12,7 @@ public class hoLA {
         int n2=10;
         System.out.println("El resultado es: "+n*n2);
         
-        String n5:"Hola cabron";
+        String n5="Hola cabron";
          System.out.println(n);
         
         
