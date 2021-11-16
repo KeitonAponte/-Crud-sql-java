@@ -31,7 +31,6 @@ public class ConsultasProducto extends conexion {
             //ejecutamos
             ps.execute();
             return true;
-
         } catch (SQLException e) {
             System.out.println(e);
             return false;
